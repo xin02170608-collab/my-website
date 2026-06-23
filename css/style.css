@@ -88,7 +88,7 @@ img {
     background-clip: text;
 }
 
-.nav ul {
+.nav {
     display: flex;
     gap: 5px;
 }
@@ -827,7 +827,7 @@ img {
         gap: 10px;
     }
 
-    .nav ul {
+    .nav {
         flex-wrap: wrap;
         justify-content: center;
     }
